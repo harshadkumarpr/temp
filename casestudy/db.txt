@@ -1,0 +1,1 @@
+RegularEmployee [salary=30000, getId()=416, getName()=harshad, getAddress()=gnr1]RetiredEmployee [pension=2000, getId()=929, getName()=retired2, getAddress()=pune]
